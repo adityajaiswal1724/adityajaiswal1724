@@ -1,0 +1,104 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#08152E"/>
+      <stop offset="1" stop-color="#041B24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="70" x2="1070" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.48" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity="0.075"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="windowClip"><rect x="38" y="35" width="1124" height="360" rx="20"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
+
+  <g clip-path="url(#windowClip)">
+    <rect x="38" y="35" width="1124" height="360" rx="20" fill="#050A18" fill-opacity="0.86" stroke="#334155"/>
+    <rect x="38" y="35" width="1124" height="52" fill="#0B1224"/>
+    <circle cx="70" cy="61" r="7" fill="#FB7185"/>
+    <circle cx="94" cy="61" r="7" fill="#FBBF24"/>
+    <circle cx="118" cy="61" r="7" fill="#34D399"/>
+    <text x="600" y="68" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">aditya@dev: ~/engineering-lab</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="76" y="127" fill="#34D399" font-size="17">aditya@dev</text>
+      <text x="180" y="127" fill="#64748B" font-size="17">:</text>
+      <text x="194" y="127" fill="#60A5FA" font-size="17">~</text>
+      <text x="210" y="127" fill="#CBD5E1" font-size="17">$</text>
+      <text x="232" y="127" fill="#F8FAFC" font-size="17">./profile --status</text>
+
+      <text x="76" y="164" fill="#64748B" font-size="15">ROLE</text>
+      <text x="178" y="164" fill="#22D3EE" font-size="15">FULL-STACK · AI/ML · AUTOMATION ENGINEER</text>
+      <text x="76" y="195" fill="#64748B" font-size="15">FOCUS</text>
+      <text x="178" y="195" fill="#E2E8F0" font-size="15">LLM AGENTS · VOICE AI · APPLIED ML</text>
+      <text x="76" y="226" fill="#64748B" font-size="15">STACK</text>
+      <text x="178" y="226" fill="#E2E8F0" font-size="15">PYTORCH · SCIKIT-LEARN · TRANSFORMERS · N8N</text>
+      <text x="76" y="257" fill="#64748B" font-size="15">SHIPPED</text>
+      <text x="178" y="257" fill="#34D399" font-size="15">4 PRODUCTION DEPLOYMENTS ONLINE</text>
+
+      <g opacity="0">
+        <text x="76" y="310" fill="#34D399" font-size="17">aditya@dev</text>
+        <text x="180" y="310" fill="#64748B" font-size="17">:</text>
+        <text x="194" y="310" fill="#60A5FA" font-size="17">~</text>
+        <text x="210" y="310" fill="#CBD5E1" font-size="17">$</text>
+        <text x="232" y="310" fill="#F8FAFC" font-size="17">build --with clarity</text>
+        <animate attributeName="opacity" values="0;1;1;1" keyTimes="0;0.08;0.75;1" dur="8s" repeatCount="indefinite"/>
+      </g>
+      <g opacity="0">
+        <text x="76" y="344" fill="#34D399" font-size="17">system</text>
+        <text x="140" y="344" fill="#64748B" font-size="17">:</text>
+        <text x="160" y="344" fill="#22D3EE" font-size="17">ready to ship.</text>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.25;0.34;1" dur="8s" repeatCount="indefinite"/>
+      </g>
+      <rect x="302" y="291" width="10" height="23" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g transform="translate(858 214)">
+      <circle r="116" stroke="#22D3EE" stroke-opacity="0.18"/>
+      <circle r="88" stroke="#60A5FA" stroke-opacity="0.24" stroke-dasharray="6 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="61" stroke="#34D399" stroke-opacity="0.34" stroke-dasharray="3 7">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M0-54 47-27V27L0 54-47 27V-27L0-54Z" fill="#071829" stroke="url(#accent)" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="11" text-anchor="middle" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">AJ</text>
+
+      <g fill="#22D3EE" filter="url(#glow)">
+        <circle cx="0" cy="-88" r="4"><animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/></circle>
+        <circle cx="76" cy="44" r="4"><animate attributeName="r" values="3;7;3" dur="2.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+        <circle cx="-76" cy="44" r="4"><animate attributeName="r" values="3;7;3" dur="2.8s" begin="1.8s" repeatCount="indefinite"/></circle>
+      </g>
+      <path d="M0-84 72 42M72 42H-72M-72 42 0-84" stroke="#38BDF8" stroke-opacity="0.22"/>
+    </g>
+
+    <rect x="-220" y="87" width="220" height="308" fill="url(#scan)" opacity="0.25">
+      <animate attributeName="x" from="-220" to="1180" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="78" y="417" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">B.TECH CSE · INDIA · BUILDING WEB SYSTEMS + AI AGENTS</text>
+  <circle cx="1115" cy="413" r="4" fill="#34D399" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1130" y="417" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ONLINE</text>
+</svg>
