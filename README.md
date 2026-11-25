@@ -221,12 +221,12 @@ Phone / Web / Messaging channel
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajaiswal1724&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=34D399&text_color=CBD5E1&ring_color=60A5FA&rank_icon=github" alt="Aditya Jaiswal GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajaiswal1724&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Aditya Jaiswal most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajaiswal1724&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=22D3EE&icon_color=34D399&text_color=F0F6FC&ring_color=60A5FA&rank_icon=github" alt="Aditya Jaiswal GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajaiswal1724&layout=compact&bg_color=0D1117&border_color=30363D&title_color=22D3EE&text_color=F0F6FC&langs_count=8" alt="Aditya Jaiswal most used languages" />
 
-<img width="94%" src="https://streak-stats.demolab.com?user=adityajaiswal1724&theme=transparent&hide_border=true&ring=22D3EE&fire=34D399&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+<img width="94%" src="https://streak-stats.demolab.com?user=adityajaiswal1724&background=0D1117&border=30363D&stroke=30363D&ring=22D3EE&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityajaiswal1724&bg_color=00000000&color=94A3B8&line=22D3EE&point=34D399&area=true&area_color=0E7490&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityajaiswal1724&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=34D399&area=true&area_color=0E7490&hide_border=false&title_color=22D3EE" alt="GitHub contribution activity graph" />
 
 </div>
 
