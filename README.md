@@ -7,7 +7,7 @@
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adityajaiswal1724&label=SYSTEM+VISITS&color=0891B2&style=for-the-badge)](https://github.com/adityajaiswal1724)
-[![Production Deployments](https://img.shields.io/badge/PRODUCTION_DEPLOYMENTS-4-10B981?style=for-the-badge&logo=vercel&logoColor=white)](#deployed-systems)
+[![Production Deployments](https://img.shields.io/badge/PRODUCTION_DEPLOYMENTS-5-10B981?style=for-the-badge&logo=vercel&logoColor=white)](#deployed-systems)
 [![Primary Stack](https://img.shields.io/badge/PRIMARY_STACK-PYTHON_%2B_TYPESCRIPT-3178C6?style=for-the-badge&logo=python&logoColor=white)](#technology-matrix)
 [![AI Systems](https://img.shields.io/badge/AI%2FML-VOICE_AI_%2B_GENAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](#ai-ml-agent-systems)
 [![Current Role](https://img.shields.io/badge/CURRENT_ROLE-SDE_%7C_AI_AUTOMATION-EC4899?style=for-the-badge)](#professional-trajectory)
@@ -106,6 +106,20 @@ Phone / Web / Messaging channel
 
 <table>
   <tr>
+    <td width="58%" valign="top">
+      <a href="https://digitalmediamarketingfinancedashboa.vercel.app/"><img src="./assets/finance-preview.jpg" alt="Demo Company finance administration workspace" /></a>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Demo Company · Finance Workspace</h3>
+      <p>A multi-role finance operations SPA with deterministic accounting workflows, Decimal.js invariants, multi-currency invoices, GST rules, credit notes, payments, PDF/CSV exports, and three years of rolling sample data.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Decimal.js</code> <code>Vitest</code></p>
+      <p><a href="https://github.com/adityajaiswal1724/digitalmediamarketing_finance_dashboard"><b>SOURCE</b></a> · <a href="https://digitalmediamarketingfinancedashboa.vercel.app/"><b>LIVE SYSTEM ↗</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://crustalai.vercel.app/"><img src="./assets/crustalai-preview.png" alt="Crustal AI automation studio" /></a>
       <h3 align="center">Crustal AI · Automation Studio</h3>
@@ -191,6 +205,7 @@ Phone / Web / Messaging channel
 | --- | --- |
 | **Interface systems** | Responsive composition, semantic HTML, keyboard paths, reduced motion, data visualisation |
 | **Application architecture** | Next.js App Router, static exports, reusable components, typed domain models |
+| **Domain modelling** | Financial invariants, Decimal.js arithmetic, multi-currency records, GST rules, credit allocation, PDF/CSV generation |
 | **AI agent systems** | LLM-based architectures, prompt flows, tool use, conversation state, human handoff patterns |
 | **Voice AI** | Inbound/outbound call flows, STT, TTS, appointment scheduling, lead qualification, Hinglish conversations |
 | **Workflow automation** | n8n, Zapier, Make, Pipedream, event-driven workflows, Google Sheets and CRM integration |
@@ -242,7 +257,7 @@ delivery: Next.js + Vercel
 status: designing the system
 next:
   - full-stack, AI/ML, and automation experience timeline
-  - interactive web, machine-learning, voice-agent, and workflow case studies
+  - interactive web, finance-system, machine-learning, voice-agent, and workflow case studies
   - AI system diagrams with tools, state, fallbacks, and integrations
   - architecture and verification notes
   - performance, accessibility, and SEO budgets

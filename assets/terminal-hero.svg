@@ -51,7 +51,7 @@
       <text x="76" y="226" fill="#64748B" font-size="15">STACK</text>
       <text x="178" y="226" fill="#E2E8F0" font-size="15">PYTORCH · SCIKIT-LEARN · TRANSFORMERS · N8N</text>
       <text x="76" y="257" fill="#64748B" font-size="15">SHIPPED</text>
-      <text x="178" y="257" fill="#34D399" font-size="15">4 PRODUCTION DEPLOYMENTS ONLINE</text>
+      <text x="178" y="257" fill="#34D399" font-size="15">5 PRODUCTION DEPLOYMENTS ONLINE</text>
 
       <g opacity="0">
         <text x="76" y="310" fill="#34D399" font-size="17">aditya@dev</text>
